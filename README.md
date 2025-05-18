@@ -1,4 +1,4 @@
-# Motor-y-manos
+# MOTOR Y MANOS
 <html lang="es">
 <head>
     <meta charset="UTF-8">
