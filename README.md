@@ -1,5 +1,4 @@
 # Motor-y-manos
-<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -7,18 +6,33 @@
     <title>Motor y Manos</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-            color: #333;
-        }
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #e8eef5; /* azul muy claro */
+    color: #1c1c1c;
+}
 
-        header {
-            background-color: #000;
-            color: #fff;
-            padding: 20px 0;
-            text-align: center;
+header {
+    background-color: #002f6c; /* azul oscuro */
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.contacto {
+    background-color: #dbe3ec; /* gris azulado claro */
+    padding: 20px;
+    border-radius: 8px;
+}
+
+footer {
+    background-color: #002f6c;
+    color: #fff;
+    text-align: center;
+    padding: 15px 0;
+    margin-top: 40px;
+}
         }
 
         header img {
